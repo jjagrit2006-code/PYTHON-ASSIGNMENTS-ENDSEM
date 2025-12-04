@@ -1,0 +1,14 @@
+=== Daily Calorie Tracker Report ===
+Date: 2025-11-06 17:40:26.714918
+
+Meal Name	Calories
+----------------------------------------
+Breakfast      	333.5
+Lunch          	250.5
+Dinner         	160.0
+----------------------------------------
+Total:		744.0
+Average:	248.00
+Daily Limit:	1500.0
+
+Status: Within limit 
