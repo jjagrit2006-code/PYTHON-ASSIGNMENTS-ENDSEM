@@ -1,0 +1,19 @@
+# Weather Data Summary
+
+This report briefly describes temperature and precipitation patterns.
+
+Overall mean temperature: 56.09
+
+Overall mean precipitation: 0.58
+
+
+Monthly overview (first few months):
+
+      Data.Temperature.Avg Temp         Data.Precipitation
+                           mean min max                sum
+Month                                                     
+1                     36.104651 -13  79             882.56
+2                     40.870635  -7  79             749.83
+3                     48.672742  -9  80             774.93
+4                     53.885375 -13  81             656.55
+5                     61.140063  20  84             956.62
