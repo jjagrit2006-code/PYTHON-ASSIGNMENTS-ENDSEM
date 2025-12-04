@@ -1,0 +1,14 @@
+[
+    {
+        "title": "abc",
+        "author": "aaa",
+        "isbn": "1212",
+        "status": "available"
+    },
+    {
+        "title": "aaaa",
+        "author": "bbb",
+        "isbn": "1111",
+        "status": "available"
+    }
+]
