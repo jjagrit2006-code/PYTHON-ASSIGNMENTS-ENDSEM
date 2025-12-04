@@ -1,0 +1,9 @@
+
+Campus Energy Use Summary
+--------------------------------------
+Total Campus Consumption: 58801.00 kWh
+Highest Consuming Building: Library
+Peak Load Time: 2024-01-01 03:00:00 with 49.00 kWh
+
+Daily Trend Range: 57.00 — 2271.00
+Weekly Trend Range: 3957.00 — 13899.00
